@@ -7833,7 +7833,7 @@ ol.wp-block-rss {
     position: relative
 }
 
-.breadcumb-menu li:after {
+/* .breadcumb-menu li:after {
     content: "\f061";
     position: relative;
     margin-left: 10px;
@@ -7841,7 +7841,7 @@ ol.wp-block-rss {
     font-size: 0.9em;
     color: inherit;
     font-family: var(--icon-font)
-}
+} */
 
 .breadcumb-menu li:last-child {
     padding-right: 0;
@@ -14824,7 +14824,7 @@ span.select2-selection.select2-selection--single:focus {
 }
 
 .team-contact .box-text {
-    max-width: 230px
+    max-width: 255px;
 }
 
 .team-contact .box-text a {
