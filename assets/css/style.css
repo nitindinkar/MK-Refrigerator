@@ -2588,12 +2588,13 @@ textarea.is-invalid {
 }
 
 .scroll-top:after {
-    content: "\f062";
+    content: "\2191";
     font-family: var(--icon-font);
     position: absolute;
     text-align: center;
     line-height: 50px;
     font-size: 20px;
+    font-weight: bold;
     color: var(--theme-color);
     left: 0;
     top: 0;
